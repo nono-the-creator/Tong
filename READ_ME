@@ -1,0 +1,92 @@
+                                **READ ME**
+
+
+                             
+
+
+
+
+				**STUDENTS DETAILS**
+
+
+**Name:Noam Ambar
+
+
+
+ID:308197391
+
+
+**
+Name:Noam Waissman
+
+
+ID:206199515
+
+
+
+
+
+
+                                FOR PLAYER:
+
+
+
+
+
+** While in the menu:
+
+    
+ 
+ * Use 'Enter' to pick any option on the menu.
+   
+    
+
+ * Use 'up' and 'down' arrows to move between options in the menu.
+   
+    
+
+ * Use 'right' and 'left' arrows to while your'e in "Set Difficulty" to choose between: 'easy', 'medium' and 'hell'.
+   
+   
+
+ * Press ESC to go back to menu any time.
+
+
+
+
+                               
+ 				FOR CODER:
+
+
+
+* we added music to make the game even more fun!
+
+
+*********** so notice there is also a '.wav' resource file *************
+
+*
+
+*Terms we used during decomandation:
+   
+    
+
+* Engine - meaning it's logicly happening in the data structors of the program.in contrast to actually orinted in the screen.
+   
+    
+
+* Future - sometime we tended to call variables "future" variables and the meaning of it is that we copy an object,making the changes that will take place.
+   
+     
+ on the real object to see what is about to happen.
+   
+    
+
+* Wall - this is how we called the sides of the arena where the 
+
+
+
+* we used visual studio to run the program 
+
+
+
+
